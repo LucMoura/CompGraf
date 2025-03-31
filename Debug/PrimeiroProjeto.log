@@ -1,0 +1,7 @@
+﻿  PrimeiroProjeto.cpp
+C:\Users\lucas.samoura\source\repos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto.cpp(19,17): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\lucas.samoura\source\repos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto.cpp(19,12): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\lucas.samoura\source\repos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto.cpp(45,27): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Users\lucas.samoura\source\repos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto.cpp(45,21): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+C:\Users\lucas.samoura\source\repos\PrimeiroProjeto\PrimeiroProjeto\PrimeiroProjeto.cpp(45,15): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  PrimeiroProjeto.vcxproj -> C:\Users\lucas.samoura\source\repos\PrimeiroProjeto\Debug\PrimeiroProjeto.exe
